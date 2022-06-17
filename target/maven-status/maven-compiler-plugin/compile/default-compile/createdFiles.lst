@@ -1,0 +1,8 @@
+BaseClasses\BaseClass1.class
+PomClasses\ProductDetails_page.class
+PomClasses\Cart_Page.class
+UtilClasses\UtilClass1.class
+PomClasses\Checkout_Page.class
+PomClasses\Login_Page.class
+PomClasses\Home_Page.class
+ListenersClasses\ListenersClass.class
